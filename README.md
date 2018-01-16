@@ -1,2 +1,4 @@
 # CS7641MachineLearning
-CS7641 Machine Learning
+
+Please request access to my Georgia Tech Github repo to see code/analysis:
+https://github.gatech.edu/lganesan6/CS7641ML
